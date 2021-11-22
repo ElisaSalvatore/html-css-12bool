@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    border: 5px #000 solid;
+    padding: 50px 25px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 50px;
+}
+
+.color-red {
+    background-color: firebrick;
+}
+
+.color-blue {
+    background-color:dodgerblue;
+}
+
+.color-yellow {
+    background-color: gold;
+}
+
+.color-skin {
+    background-color: #ffbc85;
+}
+
+.color-brown {
+    background-color:#855c18;
+}
+
+.color-black {
+    background-color: #000;
+}
