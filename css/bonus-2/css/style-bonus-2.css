@@ -21,24 +21,24 @@
     height: 50px;
 }
 
-.color-red {
-    background-color: firebrick;
+.color-orange {
+    background-color: orange;
 }
 
-.color-blue {
-    background-color:dodgerblue;
+.color-orangered {
+    background-color: orangered;
 }
 
 .color-yellow {
     background-color: gold;
 }
 
-.color-skin {
-    background-color: #ffbc85;
+.color-brown {
+    background-color: brown;
 }
 
-.color-brown {
-    background-color:#855c18;
+.color-pink {
+    background-color: pink;
 }
 
 .color-black {
