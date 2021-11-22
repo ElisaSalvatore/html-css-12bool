@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    border: 5px #000 solid;
+    padding: 50px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 60px;
+}
+
+.color-orange {
+    background-color: #ed792d;
+}
+
+.color-beige {
+    background-color: #ffe3bd;
+}
+
+.color-brown {
+    background-color: #8b3e17;
+}
+
+.color-black {
+    background-color: #333;
+}
